@@ -144,19 +144,6 @@ Contains:
 
 ---
 
-## Future Enhancements
-
-* Dark/Light Theme Toggle
-* Scroll Animations
-* Animated Statistics Counter
-* Contact Form Integration
-* Backend Connectivity
-* User Authentication
-* Dashboard Integration
-* API Connectivity
-
----
-
 ## Author
 
 Praveen PB
